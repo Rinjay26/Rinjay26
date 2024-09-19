@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rinjay and I'm a Student, from Jakarta</h2>
+<h2 align="left">Hi 👋! My name is Rinjay and I'm a Student at Mercubuana University,Jakarta.</h2>
 
 ###
 
