@@ -32,10 +32,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/restuputrarinjani">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=restuputrarinjani&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+[![Discord Presence](https://lanyard.cnrad.dev/api/941314058513166346)](https://discord.com/users/941314058513166346)
